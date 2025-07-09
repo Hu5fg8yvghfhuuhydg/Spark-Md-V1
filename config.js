@@ -1,7 +1,7 @@
 //==BANK,CHANGE DETAILS TO YOURS===//
 global.bankname = "Opay"
-global.banknumber = "7045989058"
-global.bankowner = "ᴀsᴋ ғᴏʀ ɴᴀᴍᴇ"
+global.banknumber = "7718132447"
+global.bankowner = "╰‿╯Ꭾʀᴇᴍ⸙┊ᴋᴏʀᴇ ʙᴀʟ ཌH𐍉beད"
 //==========  CPANEL COMMAND FILL BOTH ===============\\
 global.domain = '_' // Fill in your domain, don't put a / at the end of the link
 global.apikey = '_' // Fill APIKEY
