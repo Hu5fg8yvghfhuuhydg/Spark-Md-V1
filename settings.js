@@ -9,9 +9,9 @@ global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = 'https://wa.me/2348106182921'
 global.yt = 'https://youtube.me/@voltagefx6'
 global.ttowner = '-'
-global.ownername = 'ᴠᴏʟᴛᴀɢᴇ ʟᴏʀᴅ ᴅᴇᴠ' 
-global.owner = ['2348106182921'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
-global.ownernomer = '2348106182921'
+global.ownername = '╰‿╯Ꭾʀᴇᴍ⸙┊ᴋᴏʀᴇ ʙᴀʟ ཌH𐍉beད' 
+global.owner = ['917718132447'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
+global.ownernomer = '917718132447'
 global.socialm = 'https://github.com/voltagefx12'
 global.location = 'Nigeria' 
 //========================setting Payment=====================\\
@@ -24,9 +24,9 @@ global.angopay = '' // IT'S BLANK IF IT'S NOT EXISTING
 global.anovo = '' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting bot===========================\\
 global.botname = "sᴘᴀʀᴋ ᴍᴅ"
-global.ownernumber = '2348106182921'
-global.botnumber = '2348106182921'
-global.ownername = 'ᴠᴏʟᴛᴀɢᴇ'
+global.ownernumber = '917718132447'
+global.botnumber = '917718132447'
+global.ownername = 'soyal'
 global.ownerNumber = ["2348106182921@s.whatsapp.net"]
 global.ownerweb = "https://lynk.id/voltagefx6"
 global.websitex = "https://lynk.id/voltagefx6"
